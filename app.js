@@ -34,7 +34,7 @@ let firstName = "Jackie";
 let lastName = "Chan";
 
 // YOUR CODE HERE
-console.log(c)
+console.log(c);
 console.log(c + str);
 console.log(c + str2);
 console.log(c + isPresent);
@@ -66,7 +66,7 @@ console.log(d == str3);
 console.log(d === str4);
 console.log(!isPresent2);
 console.log("eleven" == str3);
-console.log(d >= str4)
+console.log(d >= str4);
 console.log("eleven" == str3 && d >= str4);
 console.log(!isPresent2 || isPresent2);
 console.log(0 == false);
